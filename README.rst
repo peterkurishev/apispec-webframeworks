@@ -30,6 +30,7 @@ Included plugins:
 * ``apispec_webframeworks.bottle``
 * ``apispec_webframeworks.flask``
 * ``apispec_webframeworks.tornado``
+* ``apispec_webframeworks.django``
 
 Migration from ``apispec<1.0.0``
 ================================
